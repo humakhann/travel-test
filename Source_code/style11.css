@@ -1,6 +1,4 @@
-body{
-    overflow-x: hidden;
-  }
+
   
   
   @media (Max-width: 438px){
@@ -345,15 +343,147 @@ body{
           justify-content: center;
           justify-items: center;
           align-items: center;
-          height: 200px;
-             padding-left: 30px;
-             padding-right: 30px;
+          height: 180px;
+             padding-left: 20px;
+             padding-right: 20px;
               /* margin-left: 170px; */
            margin-top: 60px;
           /* background-color: aqua; */
       /* background-color: plum; */
           
             }
+           
+                .imgupertext{
+                  margin-top: -35px;
+              
+                 
+                }
+              
+                h3{
+                  
+                  margin-top: -30px;
+                 margin-left: 20px;
+                  color: white;
+                align-items: center;
+                justify-content: center;
+                text-align: center;
+                  position: relative;
+                background-color: rgba(56, 183, 183, 0);
+                position: absolute;
+                font-family: 'Raleway';
+                  font-weight: bolder;
+                letter-spacing: 1px;
+              
+                }
+                dd{
+                  position: relative;
+                  font-family: "Montserrat";
+                font-size: 60px;
+              margin-top: -90px;
+              font-weight: 800;
+                  text-align: center;
+                  align-items: center;
+                  justify-content: center;
+                  color: rgb(255, 254, 254);
+                background-image: linear-gradient(rgba(86, 85, 85, 0.129),  rgba(0, 0, 0, 0.775));
+              font-size:20px;
+              border-bottom-left-radius: 10px;
+              border-bottom-right-radius: 10px;
+              height: 90px;
+              
+              
+              
+              } 
+              .item1{
+                  margin-left: -1px;
+                   width: 200px;
+                
+                 
+                 }
+                 .item2{
+                  margin-left: -1px;
+                   width: 200px;
+                  
+                 
+                 }
+                 .item3{
+                  margin-left: -1px;
+                   width: 200px;
+                  
+                 
+                 }
+                 .item4{
+                  margin-left: -1px;
+                   width: 200px;
+                  
+                 
+                 }
+                 .item5{
+                  margin-left: -1px;
+                   width: 200px;
+                  
+                 
+                 }
+                 .item6{
+                  margin-left: -1px;
+                   width: 200px;
+                  
+                 
+                 }
+                 .item7{
+                  margin-left: -1px;
+                   width: 200px;
+                  
+                 
+                 }
+                 .item8{
+                  margin-left: -1px;
+                   width: 200px;
+                  
+                 
+                 }
+                 .item9{
+                  margin-left: -1px;
+                   width: 200px;
+                  
+                 
+                 }
+                 .item10{
+                  margin-left: -1px;
+                   width: 200px;
+                  
+                 
+                 }
+                 .item11{
+                  margin-left: -1px;
+                   width: 200px;
+                  
+                 
+                 }
+                 .item12{
+                  margin-left: -1px;
+                   width: 200px;
+                  
+                 
+                 }
+                 .item13{
+                  margin-left: -1px;
+                   width: 200px;
+                  
+                 
+                 }
+                 .item14{
+                  margin-left: -1px;
+                   width: 200px;
+                  
+                 
+                 }
+                 .item15{
+                  margin-left: -1px;
+                   width: 200px;
+                  
+                 
+                 }
     
         .middletex3{
           color: black;
@@ -473,8 +603,8 @@ body{
    justify-content: center;
           height: 440px;
           margin-top: 50px;
-          padding-left: 90px;
-          padding-right: 90px;
+          padding-left: 50px;
+          padding-right: 50px;
          
         
         }
@@ -486,10 +616,10 @@ body{
      
         gap: 25px;
         height: 160px;
-        width: 370px;
+        width: 340px;
         }
         .formcontainer1 input{
-          padding-left: 20px;
+          padding-left: 10px;
         }
         
         
