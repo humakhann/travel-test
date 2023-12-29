@@ -273,7 +273,7 @@
               /* padding-right: 80px; */
               display: inline-block;
               position: absolute;
-              margin-left: 60%;
+              margin-left: 80%;
               margin-top: 50%;
               animation-name: mymove;
               animation-duration: 3s;
@@ -301,7 +301,7 @@
                {
                 display: inline-block;
                 position: absolute;
-                margin-left: 60%;
+                margin-left: 80%;
                 margin-top: 50%;
                 animation-name: mymove;
                 position: fixed;

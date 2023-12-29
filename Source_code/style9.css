@@ -34,20 +34,20 @@ body{
           justify-content: center;
           align-items: center;
           justify-items: center;
-          margin-left: 90px;
+          margin-left: 20%;
           background-position: 50%;
         }
         .call .call1 {
             
           width: 18px;
-         margin-top: -13.8px;
+         margin-top: -11px;
         }
         .number{
           display: flex;
           justify-content: center;
           align-items: center;
           justify-items: center;
-          margin-left: 60px;
+          margin-left: 10%;
           background-position: 50%;
         }
         .number .no {
@@ -92,8 +92,8 @@ body{
           justify-items: end;
         float: right;
          position: absolute;
-          top: 40px;
-          left: 680px;
+          top: 36px;
+          left: 90%;
           width: 25px;
           height: 25px;
           cursor: pointer;
@@ -346,8 +346,8 @@ body{
         justify-items: center;
         align-items: center;
         height: 200px;
-           padding-left: 150px;
-           padding-right: 100px;
+           padding-left: 30px;
+           padding-right: 30px;
             /* margin-left: 170px; */
          margin-top: 60px;
         /* background-color: aqua; */
